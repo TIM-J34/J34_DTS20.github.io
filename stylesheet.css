@@ -33,15 +33,15 @@ a {
 .top-wrapper h1 {
   opacity: 0.9;
   font-size: 45px;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   margin-bottom: 10px;
-}
+  background-color: rgb(190, 255, 177,0.5)}
 
-.top-wrapper h2 h3 {
+.top-wrapper h2 {
   opacity: 0.9;
   font-size: 30px;
   margin-bottom: 3px;
-  font-weight: 100px;
+  background-color: rgb(190, 255, 177,0.5);
 }
 
 .btn-wrapper {
